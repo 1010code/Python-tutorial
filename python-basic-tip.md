@@ -99,9 +99,9 @@ print(listofzeros)
 myList = ['apple', 'box', 'cat', 'dog']
 ```
 
-#### 方法ㄧ
+#### 方法一
 ```py
-# 方法ㄧ
+# 方法一
 for i in range(len(myList)):
     print(i,myList[i])
 ```
